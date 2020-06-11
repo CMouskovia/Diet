@@ -1,0 +1,51 @@
+#breakfast{
+	width: 100px;
+}
+.snak{
+	height: 52.500px;
+    width: 70px;
+    margin-left: 15px;
+}
+#lunch{
+	height: 52.500px;
+    width: 70px;
+	margin-left: 10px;
+}
+#progevma{
+	margin-left: 10px;
+}
+#dinner{
+	height: 52.500px;
+    width: 70px;
+	margin-left: 10px;
+}
+.snakW{
+	margin-left: 25px;
+}
+#vradino{
+	margin-left: 15px;
+}
+.textBox{
+	margin-left: 0px;
+    margin-right: 0px;
+    width: 155px;
+    height: 70px;
+}
+.snakC{
+	width: 125px;
+}
+#water{
+	height: 115px;
+}
+.WatertextBox{
+	margin-left: 30px;
+    margin-right: 0px;
+    width: 100px;
+    height: 70px;
+}
+#waterW{
+	margin-left: 25px;
+}
+#name{
+	float: right;
+}
